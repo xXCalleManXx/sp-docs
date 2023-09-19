@@ -1,0 +1,6 @@
+.md-content__inner.md-typeset img {
+    max-height: 550px;
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
