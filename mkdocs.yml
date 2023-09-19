@@ -1,0 +1,14 @@
+site_name: Official Superpay Documentation
+site_url: https://superpay.dk/
+theme:
+  name: material
+  custom_dir: overrides
+extra_css:
+  - css/custom.css
+nav:
+  - Home: index.md
+  - Images: images.md
+  - API Reference: api-reference.md
+plugins:
+  - swagger-ui-tag
+  - glightbox
